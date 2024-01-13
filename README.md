@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ankitmandloi
-- 🌱 I’m currently doing as a JAVA developer
+- 🌱 I’m Software Engineer
 - 📫 reach me ankitmandloi23@gmail.com
 
 <!---
